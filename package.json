@@ -2,15 +2,14 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Erastus2/my-portfolio.git",
+  "homepage": "https://github.com/Erastus2/my-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "dom": "^0.0.3",
     "gh": "^2.8.9",
-    "gh-pages": "^5.0.0",
-    "page": "^1.11.6",
+    "pages": "^0.0.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
@@ -20,12 +19,11 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-page -d build",
+    "deploy": "gh page -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
