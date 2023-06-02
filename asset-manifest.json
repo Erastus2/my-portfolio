@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Erastus2/my-portfolio/static/css/main.427b718c.css",
+    "main.js": "/Erastus2/my-portfolio/static/js/main.97614ab9.js",
+    "static/media/MyPortfolioImage.png": "/Erastus2/my-portfolio/static/media/MyPortfolioImage.4f6d71d1e91ec42f94d8.png",
+    "static/media/Screenshot 2023-06-02 at 20-42-11 Task Tracker App.png": "/Erastus2/my-portfolio/static/media/Screenshot 2023-06-02 at 20-42-11 Task Tracker App.5418d60be7363466f4fa.png",
+    "static/media/image5.jpg": "/Erastus2/my-portfolio/static/media/image5.7a13d83cc793951209b7.jpg",
+    "static/media/about.jpg": "/Erastus2/my-portfolio/static/media/about.ebe03ac455f084a6d785.jpg",
+    "static/media/image4.jpg": "/Erastus2/my-portfolio/static/media/image4.c75814338c960a708018.jpg",
+    "index.html": "/Erastus2/my-portfolio/index.html",
+    "main.427b718c.css.map": "/Erastus2/my-portfolio/static/css/main.427b718c.css.map",
+    "main.97614ab9.js.map": "/Erastus2/my-portfolio/static/js/main.97614ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427b718c.css",
+    "static/js/main.97614ab9.js"
+  ]
+}
