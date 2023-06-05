@@ -11,8 +11,8 @@ const Hero1 = () => {
         <img className="intro-img" src= { introImg} alt="IntroImage"/>
       </div>
       <div className="content">
-        <p>HI I'M ERASTUS </p>
-        <h1>React Developer</h1>
+        <p>HELLO, I'M ERASTUS </p>
+        <h1>Software Developer</h1>
         <div >
         <Link to="/Project" className="btn">Projects </Link> 
         <Link to="/Contact" className="btn btn-light">Contacts </Link> 

@@ -1,6 +1,7 @@
 import pro1 from "../assets/image5.jpg"
 import pro2 from "../assets/MyPortfolioImage.png"
-import pro3 from "../assets/image6.jpg"
+// import pro3 from "../assets/image6.jpg"
+import pro4 from "../assets/Screenshot 2023-06-02 at 20-42-11 Task Tracker App.png"
 
 const ProjectCardData = [
   {
@@ -16,9 +17,9 @@ const ProjectCardData = [
     view : "url.com"
   },
   {
-    imgsrc: pro3,
-    title: "Software development Design",
-    text : "Thriving software community and highly valuable project that meet proffesional standard ",
+    imgsrc: pro4,
+    title: "Task Tracker App",
+    text : "Tracker application for monitoring you scheduled task ahead of time",
     view : "url.com"
   }
 ]
